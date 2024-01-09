@@ -54938,21 +54938,13 @@ f=A.ar(B.iZ,A.c(204,255,255,255),a1)
 e=A.l(a1,a1,B.z,a1,a1,a1,a1,a1,a3,a1,a1,h,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1)
 d=a5*0.005
 c=A.W(d)
-<<<<<<< HEAD
-g=A.j(a1,A.bK(a0.d,B.z,A.bG(a1,a1,a1,a1,a1,a1,a1,a1,!0,new A.bZ(4,A.W(d),new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.bZ(4,c,new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!1,a1,a1,e,"Email",a1,f,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,1,!1,a1,new A.aDh(a0),a1,g),B.p,a1,a1,a1,a1,a1,a1,a1,a1,a1,i)
-=======
 g=A.j(a1,A.bK(a0.d,B.z,A.bG(a1,a1,a1,a1,a1,a1,a1,a1,!0,new A.bZ(4,A.W(d),new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.bZ(4,c,new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!1,a1,a1,e,"Correo",a1,f,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,1,!1,a1,new A.aDh(a0),a1,g),B.p,a1,a1,a1,a1,a1,a1,a1,a1,a1,i)
->>>>>>> 5a922eb (first commit)
 f=A.n(a1,a6*0.015,a1)
-e=A.l(a1,a1,B.z,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1)
+e=A.l(a1,a1,B.z,a1,a1,a1,a1,a1,a3,a1,a1,h,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1)
 c=A.ar(B.Rb,B.z,a1)
-b=A.l(a1,a1,B.z,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1)
+b=A.l(a1,a1,B.z,a1,a1,a1,a1,a1,a3,a1,a1,h,a1,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1,a1,a1)
 a=A.W(d)
-<<<<<<< HEAD
-i=A.j(a1,A.bK(a0.e,B.z,A.bG(a1,a1,a1,a1,a1,a1,a1,a1,!0,new A.bZ(4,A.W(d),new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.bZ(4,a,new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!1,a1,a1,b,"Password",a1,c,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,1,!0,a1,new A.aDi(a0),a1,e),B.p,a1,a1,a1,a1,a1,a1,a1,a1,a1,i)
-=======
 i=A.j(a1,A.bK(a0.e,B.z,A.bG(a1,a1,a1,a1,a1,a1,a1,a1,!0,new A.bZ(4,A.W(d),new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,new A.bZ(4,a,new A.a6(B.z,1,B.N,-1)),a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,!1,a1,a1,b,"Contrase\xf1a",a1,c,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1),a1,1,!0,a1,new A.aDi(a0),a1,e),B.p,a1,a1,a1,a1,a1,a1,a1,a1,a1,i)
->>>>>>> 5a922eb (first commit)
 n=A.n(a1,n,a1)
 e=a5*0.1
 c=A.c(204,255,255,255)
@@ -59547,11 +59539,7 @@ A.aKP.prototype={
 $1(a){return new A.n5($.bi())},
 $S:388}
 A.Qo.prototype={
-<<<<<<< HEAD
-V(a){return new A.Dh(new A.Dc(null),"Flutter Demo",!1,null)}}
-=======
 V(a){return new A.Dh(new A.Dc(null),"Be Label",!1,null)}}
->>>>>>> 5a922eb (first commit)
 A.f1.prototype={
 au(){return new A.Zb(A.aR8("HH:mm").xy(new A.cK(Date.now(),!1)),A.aR8("dd | MMMM yyyy").xy(new A.cK(Date.now(),!1)),B.S)}}
 A.Zb.prototype={
