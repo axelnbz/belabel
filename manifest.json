@@ -1,11 +1,11 @@
 {
-    "name": "be_label_pc",
-    "short_name": "be_label_pc",
+    "name": "BeLabel",
+    "short_name": "BeLabel",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "BeLabelPC",
+    "description": "Software oficial de BeLabel",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
